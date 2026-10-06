@@ -1,0 +1,6 @@
+{
+  "name": "Askly",
+  "description": "Askly, an AI chatbot powered by the Sela v1 model, created by G.m Hadiuzzaman Shuvo.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
